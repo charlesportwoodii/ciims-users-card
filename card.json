@@ -1,0 +1,11 @@
+{
+    "name": "UsersCard",
+    "description": "A card to display the number of users in CiiMS",
+    "version": "0.0.1",
+    "image": "card.png",
+    "footerText": "Users",
+    "properties": {},
+    "availableTileSizes": [
+        "square"
+    ]
+}
